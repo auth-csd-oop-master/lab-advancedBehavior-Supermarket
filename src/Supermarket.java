@@ -8,7 +8,11 @@ import java.util.HashSet;
  * @author Grigorios Tsoumakas
  */
 public class Supermarket {
-    ArrayList<Transaction> transactions = new ArrayList<>();
+
+
+    public Supermarket(){
+        // fill your code here
+    }
    
     /**
      * Αυτή η μέθοδος αποθηκεύει μια συναλλαγή

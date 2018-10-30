@@ -11,7 +11,7 @@ import java.util.Iterator;
  * @author Grigorios Tsoumakas
  */
 public class Transaction {
-    private HashMap<String, Integer> items;
+
  
     public Transaction() {
         // συμπληρώστε τον κώδικα
