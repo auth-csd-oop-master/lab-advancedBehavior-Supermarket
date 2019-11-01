@@ -35,7 +35,7 @@ public class SupermarketTest {
      * Test 1
      */
     @Test
-    public void test1() {
+    public void totalSalesTest() {
         String product1 = "μπανάνες";
         String product2 = "μήλα";
         Supermarket instance = new Supermarket();
@@ -74,7 +74,7 @@ public class SupermarketTest {
      * Test 3
      */
     @Test
-    public void test3() {
+    public void uniqueProductsTest() {
         String product1 = "μπανάνες";
         String product2 = "μήλα";
         Supermarket instance = new Supermarket();

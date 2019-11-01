@@ -36,7 +36,7 @@ public class TransactionTest {
      * Test 1.
      */
     @Test
-    public void test1() {
+    public void amountOfProductsTest() {
         String product = "μπανάνες";
         Transaction instance = new Transaction();
         instance.scanItem(product);
@@ -54,7 +54,7 @@ public class TransactionTest {
      * Test 3.
      */
     @Test
-    public void test3() {
+    public void scanItemsTest() {
         System.out.println("scanItem");
         String product = "μπανάνες";
         Transaction instance = new Transaction();
