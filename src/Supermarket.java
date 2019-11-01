@@ -4,8 +4,7 @@ import java.util.HashSet;
 /**
  * Η κλάση αυτή αποθηκεύει στη μνήμη τις συναλλαγές σε ένα σούπερ μάρκετ.
  * This class saves in memory all the transactions of a supermarket.
- * 
- * @author Grigorios Tsoumakas
+ *
  */
 public class Supermarket {
 

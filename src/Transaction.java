@@ -8,7 +8,6 @@ import java.util.Iterator;
  * This class represents a transaction of a super market customer. In other words,
  * the basket with the products of a visit to the supermarket.
  *
- * @author Grigorios Tsoumakas
  */
 public class Transaction {
 
